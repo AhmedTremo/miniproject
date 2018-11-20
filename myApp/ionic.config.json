@@ -1,6 +1,5 @@
 {
-  "name": "myApp",
+  "name": "miniproject",
   "integrations": {},
-  "type": "angular",
-  "pro_id": "110451e0"
+  "type": "ionic-angular"
 }
